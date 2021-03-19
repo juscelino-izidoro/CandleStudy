@@ -1,0 +1,5 @@
+library(cairoDevice)
+library(RGtk2)
+library(zoo)
+library(TTR)
+library(quantmod)
